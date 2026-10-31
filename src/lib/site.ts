@@ -8,7 +8,7 @@ import type {
 export const SITE_NAME = "SpiderDeck";
 
 export const SITE_URL = (
-  process.env["NEXT_PUBLIC_SITE_URL"] ?? "https://spiderdeck.pages.dev"
+  process.env["NEXT_PUBLIC_SITE_URL"] ?? "https://spiderdeck.wwkejishe.top"
 ).replace(/\/$/, "");
 
 export const OG_IMAGE = "/og.jpg";

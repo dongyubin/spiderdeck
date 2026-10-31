@@ -68,7 +68,7 @@ npx serve out
 
 `NEXT_PUBLIC_SITE_URL` drives canonical URLs, Open Graph URLs, JSON-LD, the
 sitemap, and `robots.txt`. Set it before building; the fallback is
-`https://spiderdeck.pages.dev`.
+`https://spiderdeck.wwkejishe.top`.
 
 `public/_headers` adds long-lived caching for `/_next/static/*` and `/cards/*`
 plus basic security headers.
